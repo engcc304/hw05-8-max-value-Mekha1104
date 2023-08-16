@@ -25,7 +25,7 @@
 int main() {
     int num1, num2, num3;
 
-    printf("Enter 3 numbers: ");
+    printf("Enter three numbers:\n");
     scanf("%d %d %d", &num1, &num2, &num3);
 
     printf("1st Number = %d\n", num1);
